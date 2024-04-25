@@ -75,45 +75,4 @@ main {
 .characters-list-card {
   padding: 20px;
 }
-/*
-.container {
-  display: flex;
-  justify-content: center;
-  max-width: 1000px;
-}
-
-.card {
-  background-color: #fff;
-  border-radius: 15px;
-  box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.1);
-}
-
-.character-card {
-  max-width: 300px;
-  margin: auto;
-}
-
-.pokemon-list-card {
-  padding: 15px;
-}
-
-.card-img-top {
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
-}
-
-.card-body {
-  padding: 20px;
-}
-
-.card-title {
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: #333;
-}
-
-.card-text {
-  font-size: 12px;
-  color: #666;
-} */
 </style>
